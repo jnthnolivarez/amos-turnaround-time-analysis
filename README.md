@@ -1,7 +1,7 @@
 # Aircraft Maintenance Work Order TAT Analysis
 ## Project Summary
 
-## This project analyzes AMOS maintenance work order data to evaluate operational turnaround time (TAT) performance from January to November 2025.
+## This project analyzes Aircraft Maintenance Work Order TAT Analysis data to evaluate operational turnaround time (TAT) performance from January to November 2025.
 
 ## The objective is to measure efficiency, identify delays, and provide operational insights using SQL and Looker Studio.
 
