@@ -7,36 +7,36 @@
 
 ## Tools & Technologies
 
-## PostgreSQL
+## - PostgreSQL
 
-## SQL
+## - SQL
 
-## Looker Studio
+## - Looker Studio
 
-## Excel (data preprocessing)
+## - Excel (data preprocessing)
 
 ## Data Processing Workflow
 
-## Imported raw AMOS Excel data into PostgreSQL
+## 1. Imported raw AMOS Excel data into PostgreSQL
 
-## Cleaned dataset and filtered DOTAMECH records
+## 2. Cleaned dataset and filtered DOTAMECH records
 
-## Standardized service types using SQL CASE logic
+## 3. Standardized service types using SQL CASE logic
 
-## Calculated Turnaround Time:
+## 4. Calculated Turnaround Time:
 
-## closing_date - issue_date
+## - closing_date - issue_date
 
 
-## Created KPI queries for:
+## 5. Created KPI queries for:
 
-## Total Work Orders
+## - Total Work Orders
 
-## Average TAT
+## - Average TAT
 
-## Same-Day Closure %
+## - Same-Day Closure %
 
-## Built interactive dashboard in Looker Studio
+## 6. Built interactive dashboard in Looker Studio
 
 ## Key Insights
 
